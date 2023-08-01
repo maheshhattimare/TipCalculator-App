@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="mahesh">Mahesh</string>
+    <string name="amount">Amount</string>
+    <string name="tip_percent">~Tip Percent~</string>
+    <string name="bill_amount">~Bill Amount~</string>
+    <string name="_15">10</string>
+    <string name="person">PER HEAD:</string>
+    <string name="_0">0</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="_0p">0</string>
+    <string name="_0t">0</string>
+    <string name="rupee_symbol">₹</string>
+    <string name="total">TOTAL:</string>
+    <string name="plus">+</string>
+    <string name="tip">TIP:</string>
+    <string name="_1">1</string>
+    <string name="neg">-</string>
+    <string name="how_many_people_are_paying">How many people are paying?</string>
+    <string name="percent">%</string>
+    <string name="view">view</string>
+</resources>
